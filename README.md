@@ -1,2 +1,3 @@
 # Bookstore_data_anlysis
-A complete SQL project for managing and analyzing bookstore data — includes schema design, basic to advanced queries, and insights on sales, customers, and books.
+This project demonstrates the use of SQL for data analysis and database management through a Bookstore Management System.
+It includes table creation, data insertion, and a wide range of queries from basic to advanced — covering filtering, aggregation, joins, and analytical reporting.
